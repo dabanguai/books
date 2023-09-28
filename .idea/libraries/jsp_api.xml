@@ -3,7 +3,7 @@
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../../../../../../JavaWeb/Tomcat/apache-tomcat-10.0.23/lib/jsp-api.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../../../../../JavaWeb/Tomcat/apache-tomcat-10.0.23/lib/servlet-api.jar!/" />
-      <root url="jar://$PROJECT_DIR$/../../../../../../JavaWeb/Tomcat/apache-tomcat-10.0.23/lib/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../JavaWeb/Tomcat/apache-tomcat-10.0.23/lib/jakarta.servlet.jsp.jstl-2.0.0.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
