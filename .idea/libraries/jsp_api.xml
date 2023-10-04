@@ -4,6 +4,11 @@
       <root url="jar://$PROJECT_DIR$/../../../../../../JavaWeb/Tomcat/apache-tomcat-10.0.23/lib/jsp-api.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../../../../../JavaWeb/Tomcat/apache-tomcat-10.0.23/lib/servlet-api.jar!/" />
       <root url="jar://$PROJECT_DIR$/../../../../../../JavaWeb/Tomcat/apache-tomcat-10.0.23/lib/jakarta.servlet.jsp.jstl-2.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../JavaWeb/Tomcat/apache-tomcat-10.0.23/lib/c3p0-0.9.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../JavaWeb/Tomcat/apache-tomcat-10.0.23/lib/mchange-commons-java-0.2.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../JavaWeb/Tomcat/apache-tomcat-10.0.23/lib/commons-dbutils-1.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../JavaWeb/Tomcat/apache-tomcat-10.0.23/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../JavaWeb/Tomcat/apache-tomcat-10.0.23/lib/mysql-connector-java-5.1.35-bin.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -27,7 +27,7 @@
 				
 				
 				<div><img alt="" src="static/images/net.jpg"><br></div>
-				<div><span style="font-size: 50px;color:red">
+				<div><span style="font-size: 50px;color:#ff0000">
 					网络有波动
 				</span></div>
 				

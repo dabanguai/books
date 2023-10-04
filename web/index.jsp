@@ -1,7 +1,7 @@
 <%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
 <%
-	if (session.getAttribute("user") == null){
+	if (session.getAttribute("userDB") == null){
 		response.sendRedirect(request.getContextPath() + "/login.jsp");
 	}	
 %>
@@ -21,10 +21,10 @@
 	<jsp:include page="common/top.jsp"></jsp:include>
 	<div class="container">
 		<div class="row">
-			<c:if test="${user.role == 1}">
+			<c:if test="${userDB.role == 1}">
 				<jsp:include page="common/user_left.jsp"></jsp:include>			
 			</c:if>
-			<c:if test="${user.role == 2}">
+			<c:if test="${userDB.role == 2}">
 				<jsp:include page="common/left.jsp"></jsp:include>			
 			</c:if>
 			<!-- content -->

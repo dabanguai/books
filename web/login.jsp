@@ -29,7 +29,7 @@
 					欢迎登录图书馆管理系统
 				</div>
 				<form class="bootstrap-admin-login-form" method="post"
-					action="<%=basePath%>user?method=login">
+					action="<%=basePath%>login?method=login">
 					<%
 						String state = (String) session.getAttribute("state");
 						session.removeAttribute("state");
